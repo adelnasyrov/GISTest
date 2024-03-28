@@ -1,17 +1,5 @@
-# gis_test
+# A test task for company GIS Russia
 
-A new Flutter project.
+The app that shows the sun in the middle, where you can add planets of different size, color, speed and distance from sun, so they rotate around the orbit.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# gis_test
+Using Flutter
